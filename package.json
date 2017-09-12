@@ -1,0 +1,35 @@
+{
+  "name": "cordova-amazon-sdk",
+  "version": "1.0.0",
+  "description": "This plugin allows you to use Amazon Apps & Games Services SDKs",
+  "cordova": {
+    "id": "cordova-amazon-sdk",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexcbluk/cordova-amazon-sdk.git"
+  },
+  "keywords": [
+	"cordova",
+    "cordova-android",
+    "ad",
+	"amazon",
+    "sdk"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "alexcbluk",
+  "license": "Program Materials",
+  "bugs": {
+    "url": "https://github.com/alexcbluk/cordova-amazon-sdk/issues"
+  },
+  "homepage": "https://github.com/alexcbluk/cordova-amazon-sdk/blob/master/README.txt"
+}
